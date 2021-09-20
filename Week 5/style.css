@@ -1,0 +1,20 @@
+/* Selectors in HTML */
+p {
+    color: red;
+}
+
+#idselect {
+    color: green;
+}
+
+.class-select {
+    color: blue;
+}
+
+h1 {
+    font-family: 'Fondamento';
+}
+
+p {
+    font-family: 'Roboto'
+}
